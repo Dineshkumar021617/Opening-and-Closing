@@ -24,7 +24,6 @@ Plot the images using plt.imshow.
 Developed by : Dineshkumar S
 Registeration Number:212220230012
 ```
-
 ``` Python
 # Import the necessary packages
 import cv2
